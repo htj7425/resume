@@ -31,7 +31,7 @@
 ### [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
 
 > * 소개 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; 어렵고 지루한 영어 공부를 AI와 함께 쉽고 재미있게 공부할 수 있도록 도와주는 서비스
-> * 역할 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 그리고 초기 사용자 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인터페이스 프레임워크 구축
+> * 역할 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 초기 사용자 인터페이스 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프레임워크 구축을 비롯하여 애플리케이션 내에서 다양한 기능을 개발하고 구현
 > * 기술 스택 & 툴 &nbsp;❙&nbsp; JavaScript, React Native, Node, Firebase, Notion, Figma, GitHub
 
 <br/><br/>
