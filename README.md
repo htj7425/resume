@@ -6,10 +6,15 @@
 
 <img width="32%" height="32%" src="https://github.com/htj7425/resume/assets/43903354/d2523899-d89f-428d-8cd9-3e0da4a8122a"  />
 
-* Name &nbsp;❙&nbsp; 하태준
-  * Date of Birth &nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; 1999-11-16
-  * Phone Number  ❙&nbsp; 010-6607-8208
-  * E-mail &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; htj7425@gmail.com
+* **Name** &nbsp;❙&nbsp; 하태준
+* **Contact.**
+  * E-mail &nbsp;❙&nbsp; htj7425@gmail.com
+  * Phone &nbsp;❙&nbsp; 010-6607-8208
+
+* **Channel.**
+  * Blog &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; https://dev-taejun.tistory.com/
+  * GitHub &nbsp;❙&nbsp; https://github.com/htj7425
+    
 <br/>
 
 <pre>
@@ -30,9 +35,9 @@
 
 ### [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
 
-> * 소개 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; 어렵고 지루한 영어 공부를 AI와 함께 쉽고 재미있게 공부할 수 있도록 도와주는 서비스
-> * 역할 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 초기 사용자 인터페이스 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프레임워크 구축을 비롯하여 애플리케이션 내에서 다양한 기능을 개발하고 구현
-> * 기술 스택 & 툴 &nbsp;❙&nbsp; JavaScript, React Native, Node, Firebase, Notion, Figma, GitHub
+> * **소개** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; 어렵고 지루한 영어 공부를 AI와 함께 쉽고 재미있게 공부할 수 있도록 도와주는 서비스
+> * **역할** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 초기 사용자 인터페이스 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프레임워크 구축을 비롯하여 애플리케이션 내에서 다양한 기능을 개발하고 구현
+> * **기술 스택 & 툴** &nbsp;❙&nbsp; JavaScript, React Native, Node, Firebase, Notion, Figma, GitHub
 
 <br/><br/>
 
