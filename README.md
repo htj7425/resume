@@ -41,11 +41,20 @@
 
 <br/><br/>
 
+## Other Experience
+
+<br/>
+
+#### LikeLion iOS AppSchool 3rd
+* 2023.9.11 ~ 
+
+<br/><br/>
+
 ## Awards
 
 <br/>
 
-### 조선대학교 SW융합대학 캡스톤디자인 우수상 수상 - [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
+#### 조선대학교 SW융합대학 캡스톤디자인 우수상 수상 - [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
 * 수상 날짜 &nbsp;❙&nbsp; 2023-07
 
 
