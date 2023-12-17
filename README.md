@@ -49,9 +49,9 @@
 
 ### [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
 
-> * **소개** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; 어렵고 지루한 영어 공부를 AI와 함께 쉽고 재미있게 공부할 수 있도록 도와주는 서비스
-> * **역할** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❙&nbsp; Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 초기 사용자 인터페이스 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;프레임워크 구축을 비롯하여 애플리케이션 내에서 다양한 기능을 개발하고 구현
-> * **기술 스택 & 툴** &nbsp;❙&nbsp; JavaScript, React Native, Node, Firebase, Notion, Figma, GitHub
+> * **소개** <br/>❙ 어렵고 지루한 영어 공부를 AI와 함께 쉽고 재미있게 공부할 수 있도록 도와주는 서비스
+> * **역할** <br/>❙ Google 로그인 API 통합 및 적용, Firebase 데이터베이스 설계 및 관리, 초기 사용자 인터페이스 프레임워크 구축을 비롯하여 애플리케이션 내에서 다양한 기능을 개발하고 구현
+> * **기술 스택 & 툴** <br/>❙ JavaScript, React Native, Node, Firebase, Notion, Figma, GitHub
 
 <br/><br/>
 
@@ -67,6 +67,9 @@
 ## Awards
 
 <br/>
+
+#### 2023 산학협력 EXPO 캡스톤 디자인 경진대회 장려상 수상 - [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
+* 수상 날짜 &nbsp;❙&nbsp; 2023-11-08
 
 #### 조선대학교 SW융합대학 캡스톤디자인 우수상 수상 - [Nine](https://github.com/dduneon/Nine-2023CapstoneDesign)
 * 수상 날짜 &nbsp;❙&nbsp; 2023-07
