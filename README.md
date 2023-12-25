@@ -60,7 +60,7 @@
 <br/>
 
 #### LikeLion iOS AppSchool 3rd
-* 2023.9.11 ~ 
+* 2023.9.11 ~ 2024.2.28
 
 <br/><br/>
 
