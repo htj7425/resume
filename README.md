@@ -54,7 +54,7 @@
 
 <br/><br/>
 
-<img width="15%" height="15%" src="https://github.com/htj7425/resume/assets/43903354/de827f0c-aef9-49d1-a84c-72e98d92690d" />
+<img width="20%" height="20%" src="https://github.com/htj7425/resume/assets/43903354/de827f0c-aef9-49d1-a84c-72e98d92690d" />
 
 <br/>
 
