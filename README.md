@@ -41,7 +41,7 @@
 
 ## Project Experience
 
-<img width="45%" height="45%" src="https://github.com/APP-iOS3rd/PJ2T9_EveryMap/assets/43903354/07e31c23-ba6a-42b2-aefc-cd471bcc8ef7" />
+<img width="47%" height="47%" src="https://github.com/APP-iOS3rd/PJ2T9_EveryMap/assets/43903354/07e31c23-ba6a-42b2-aefc-cd471bcc8ef7" />
 
 <br/>
 
